@@ -7,7 +7,7 @@
 </script>
 
 {#snippet lnk(href: string, text: string)}
-	<Button size="lg" variant="link" class="text-3xl font-serif" {href}>{text}</Button>
+	<Button size="lg" variant="link" class="font-serif text-3xl" {href}>{text}</Button>
 {/snippet}
 
 <main class="relative min-h-screen">
