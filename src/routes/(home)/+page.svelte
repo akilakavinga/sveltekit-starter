@@ -1,3 +1,5 @@
+<script lang='ts'>
+</script>
 <main class="h-full grid place-items-center">
   <h1 class="heading font-light font-heading text-5xl">Welcome to SvelteKit</h1>
 </main>
